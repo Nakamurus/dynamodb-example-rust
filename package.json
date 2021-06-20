@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "serverless-rust": "github:softprops/serverless-rust#ebe43ceacfb7f770569e98e3dfb4bbb6eba0d88d"
+  }
+}
